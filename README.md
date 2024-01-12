@@ -1,5 +1,3 @@
-# .github
-
 # Repositories
 
 * ML-decoder: The best method we employed. (ConvNeXt + ML-decoder + various data augmentation)
